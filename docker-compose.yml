@@ -27,6 +27,5 @@ services:
       - POSTGRES_USER=devuser
       - POSTGRES_PASSWORD=changeme
 
-
 volumes:
   dev-db-data:
